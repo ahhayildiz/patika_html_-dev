@@ -5,7 +5,7 @@ Bu ödev [Patika dev](https://app.patika.dev) Front-End HTML Eğitiminde oluştu
 
 
 ```
-https://app.patika.dev .
+https://app.patika.dev 
 ```
 ## License
 
